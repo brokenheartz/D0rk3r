@@ -2,7 +2,6 @@
 
 from dorker_class import my_dorker as dork
 from sys import argv, exit
-from time import sleep
 
 def banner():
     print(" _____   ___       _    ____")
